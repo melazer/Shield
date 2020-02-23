@@ -4,7 +4,7 @@
 
 # Tecnologias usadas:
   
-##HTML
+## HTML
   <ul>
   <li>Usado principalmente para ordenar a página</li>
   </ul>
